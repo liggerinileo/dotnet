@@ -1,0 +1,7 @@
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.csproj.AssemblyReference.cache
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.AssemblyInfoInputs.cache
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.AssemblyInfo.cs
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.csproj.CoreCompileInputs.cache
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ligge\OneDrive\Desktop\Cursos\Microservicios\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\net8.0\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cache
